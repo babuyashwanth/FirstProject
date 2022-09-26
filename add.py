@@ -1,4 +1,4 @@
 a = 15
 b = 55
-c = a+b
+c = b-a
 print(c)
